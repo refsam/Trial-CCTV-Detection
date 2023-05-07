@@ -2,4 +2,4 @@ train: path
 val: path
 
 nc: 1
-classes: "Tanpa Masker"
+classes: "Wajah"
